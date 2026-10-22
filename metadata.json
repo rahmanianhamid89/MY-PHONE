@@ -1,0 +1,6 @@
+{
+  "name": "File Manager",
+  "description": "Professional Android File Manager supporting internal storage, USB OTG, built-in video player, PDF viewer, text editor, bookmarks, and cloud drive integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
